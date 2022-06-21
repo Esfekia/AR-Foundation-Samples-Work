@@ -378,7 +378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73c2519a340ab2d4eabae95e299ead0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  placedPrefab: {fileID: 6255309011417331373, guid: bf8c205b7b88e734980699d5b74de146,
+  placedPrefab: {fileID: 3432181745505559341, guid: 84ff8d83844b9f64a9ca43272df4c0b6,
     type: 3}
 --- !u!1 &1430864417
 GameObject:
