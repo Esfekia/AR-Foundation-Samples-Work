@@ -313,6 +313,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1697766786942169833, guid: 46e7bb4a421ecda478be70787faae39f,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1697766786942169833, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1697766786942169833, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1697766786942169833, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.8408642
       objectReference: {fileID: 0}
@@ -365,6 +380,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PrefabForAR
+      objectReference: {fileID: 0}
+    - target: {fileID: 5794001007396540426, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6745694353241065358, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6745694353241065358, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6745694353241065358, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSizeZ.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6746038615036065626, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6746038615036065626, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6746038615036065626, guid: 46e7bb4a421ecda478be70787faae39f,
+        type: 3}
+      propertyPath: InitialModule.startSizeZ.scalar
+      value: 0.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46e7bb4a421ecda478be70787faae39f, type: 3}
